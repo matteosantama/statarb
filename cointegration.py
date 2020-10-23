@@ -35,8 +35,8 @@ class Cointegration:
 
     def __init__(self):
         # connection parameters
-        self.key_id = 'PKM19ZH5QLFUUQZOXFCY'
-        self.secret_key = 'hcRBPwpUlQl40BSIJuvMJ7v9y0IEt8btVHUEIJrE'
+        self.key_id = None 
+        self.secret_key = None
         self.base_url = 'https://paper-api.alpaca.markets'
         self.data_url = 'https://data.alpaca.markets'
 
