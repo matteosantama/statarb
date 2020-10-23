@@ -1,0 +1,7 @@
+2020-10-23 07:37:12,050 cointegration.py:197 INFO    Generated 1500 pairs
+2020-10-23 07:37:12,053 wshandler.py    :36  INFO    WSHandler initialized
+2020-10-23 07:37:12,053 cointegration.py:152 INFO    Verifying database
+2020-10-23 07:37:12,494 cointegration.py:214 INFO    Database check passed!
+2020-10-23 07:37:14,496 cointegration.py:220 INFO    Current position checked, looking for new trades...
+2020-10-23 07:37:28,250 cointegration.py:404 INFO    Pair #16 >> stationarity in GD - 3.9704 * TXT in Aerospace & Defense. z=0.2584 vs. cutoff of 2
+2020-10-23 07:37:29,829 cointegration.py:404 INFO    Pair #18 >> stationarity in HWM - 0.1225 * HII in Aerospace & Defense. z=0.1346 vs. cutoff of 2
